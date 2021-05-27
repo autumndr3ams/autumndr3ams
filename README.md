@@ -2,7 +2,7 @@
 <h6>  -뮤지컬 시데레우스, 살아나</h6><br>
 👋 Hi There! I’m hyeri from South Korea<br>
 👀 I’m interested in Web Programming<br>
-🌱 I’m currently learning django, python, C, C++<br>
+🌱 I’m currently learning django, python, C, C++, HTML, CSS, JS<br>
 📫 If you want to contact me, plz leave me a message!<br>
 
 <!---
